@@ -1,0 +1,4 @@
+blogenv/
+db.sqlite3
+.env
+.DS_Store
